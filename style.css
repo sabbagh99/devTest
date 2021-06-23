@@ -1,0 +1,21 @@
+#myProgress {
+    width: 50%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 100%;
+    height: 30px;
+    background-color: green;
+  }
+  
+  #myProgressDog {
+    width: 50%;
+    background-color: grey;
+  }
+  
+  #myBarDog {
+    width: 100%;
+    height: 30px;
+    background-color: green;
+  }
